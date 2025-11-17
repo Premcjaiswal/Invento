@@ -1,4 +1,4 @@
-# Product Inventory Management System
+# Product Inventory Management System(Invento)
 
 A full-stack web application for managing product inventory with user authentication, categories, and product tracking.
 
